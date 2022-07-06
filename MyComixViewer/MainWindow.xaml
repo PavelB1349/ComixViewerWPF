@@ -1,0 +1,62 @@
+﻿<Window x:Class="MyComixViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyComixViewer"
+        mc:Ignorable="d"
+        Title="ComixViewer" Height="620" Width="800">
+    <Grid>
+        <StackPanel>
+
+            <Grid ShowGridLines="True">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="250"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <ScrollViewer Grid.Column="0" Height="600" Padding="0 0 0 30" Background="Thistle">
+                    <StackPanel Width="200">
+                        <Button Name="btnP1" Margin="15" BorderBrush="LightGray" BorderThickness="5" Click="BtnP1_Click">
+                            <Image Name="imgPage1"  Source="000.jpg" ToolTip="Страница 1"/>
+                        </Button>
+                        <Button Name="btnP2" Margin="15" BorderBrush="LightGray" BorderThickness="5" Click="BtnP2_Click">
+                            <Image Name="imgPage2"  Source="001.jpg" ToolTip="Страница 2"/>
+                        </Button>
+                        <Button Name="btnP3" Margin="15" BorderBrush="LightGray" BorderThickness="5" Click="BtnP3_Click">
+                            <Image Name="imgPage3"  Source="002.jpg" ToolTip="Страница 3"/>
+                        </Button>
+                        <Button Name="btnP4" Margin="15" BorderBrush="LightGray" BorderThickness="5" Click="BtnP4_Click">
+                            <Image Name="imgPage4"  Source="003.jpg" ToolTip="Страница 4"/>
+                        </Button>
+                        <Button Name="btnP5" Margin="15" BorderBrush="LightGray" BorderThickness="5" Click="BtnP5_Click">
+                            <Image Name="imgPage5"  Source="004.jpg" ToolTip="Страница 5"/>
+                        </Button>
+                        <Button Name="btnP6" Margin="15" BorderBrush="LightGray" BorderThickness="5" Click="BtnP6_Click">
+                            <Image Name="imgPage6"  Source="005.jpg" ToolTip="Страница 6"/>
+                        </Button>
+                        <Button Name="btnP7" Margin="15" BorderBrush="LightGray" BorderThickness="5" Click="BtnP7_Click">
+                            <Image Name="imgPage7"  Source="006.jpg" ToolTip="Страница 7"/>
+                        </Button>
+                        <Button Name="btnP8" Margin="15" BorderBrush="LightGray" BorderThickness="5" Click="BtnP8_Click">
+                            <Image Name="imgPage8"  Source="007.jpg" ToolTip="Страница 8"/>
+                        </Button>
+                    </StackPanel>                 
+                    
+                </ScrollViewer>
+                <StackPanel Grid.Column="1" Background="BurlyWood">
+                    <ScrollViewer Height="530" HorizontalAlignment="Center" VerticalAlignment="Center" VerticalScrollBarVisibility="Hidden"> 
+                        <Image Name="imgMain" Source="000.jpg" Width="300" Margin="15"/>                        
+                    </ScrollViewer>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <Label Content="-" FontSize="30"/>
+                        <Slider Name="sSize" Width="200" Margin="5 15" Maximum="500" Minimum="300" ValueChanged="SldSize_ValueChanged"
+                                LargeChange="10"/>
+                        <Label Content="+" FontSize="30"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+            
+            <Slider/>
+        </StackPanel>
+    </Grid>
+</Window>

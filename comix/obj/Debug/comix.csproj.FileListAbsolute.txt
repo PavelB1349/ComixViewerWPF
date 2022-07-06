@@ -1,0 +1,16 @@
+G:\WPF\homework\homework_4\homework_4\comix\bin\Debug\comix.exe.config
+G:\WPF\homework\homework_4\homework_4\comix\bin\Debug\comix.exe
+G:\WPF\homework\homework_4\homework_4\comix\bin\Debug\comix.pdb
+G:\WPF\homework\homework_4\homework_4\comix\obj\Debug\comix.csproj.AssemblyReference.cache
+G:\WPF\homework\homework_4\homework_4\comix\obj\Debug\comix.csproj.SuggestedBindingRedirects.cache
+G:\WPF\homework\homework_4\homework_4\comix\obj\Debug\MainWindow.g.cs
+G:\WPF\homework\homework_4\homework_4\comix\obj\Debug\App.g.cs
+G:\WPF\homework\homework_4\homework_4\comix\obj\Debug\comix_MarkupCompile.cache
+G:\WPF\homework\homework_4\homework_4\comix\obj\Debug\comix_MarkupCompile.lref
+G:\WPF\homework\homework_4\homework_4\comix\obj\Debug\MainWindow.baml
+G:\WPF\homework\homework_4\homework_4\comix\obj\Debug\comix.g.resources
+G:\WPF\homework\homework_4\homework_4\comix\obj\Debug\comix.Properties.Resources.resources
+G:\WPF\homework\homework_4\homework_4\comix\obj\Debug\comix.csproj.GenerateResource.cache
+G:\WPF\homework\homework_4\homework_4\comix\obj\Debug\comix.csproj.CoreCompileInputs.cache
+G:\WPF\homework\homework_4\homework_4\comix\obj\Debug\comix.exe
+G:\WPF\homework\homework_4\homework_4\comix\obj\Debug\comix.pdb

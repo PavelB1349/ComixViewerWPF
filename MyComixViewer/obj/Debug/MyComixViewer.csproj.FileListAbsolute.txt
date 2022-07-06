@@ -1,0 +1,16 @@
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\bin\Debug\MyComixViewer.exe.config
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\bin\Debug\MyComixViewer.exe
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\bin\Debug\MyComixViewer.pdb
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\obj\Debug\MyComixViewer.csproj.AssemblyReference.cache
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\obj\Debug\MyComixViewer.csproj.SuggestedBindingRedirects.cache
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\obj\Debug\MainWindow.g.cs
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\obj\Debug\App.g.cs
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\obj\Debug\MyComixViewer_MarkupCompile.cache
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\obj\Debug\MyComixViewer_MarkupCompile.lref
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\obj\Debug\MainWindow.baml
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\obj\Debug\MyComixViewer.g.resources
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\obj\Debug\MyComixViewer.Properties.Resources.resources
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\obj\Debug\MyComixViewer.csproj.GenerateResource.cache
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\obj\Debug\MyComixViewer.csproj.CoreCompileInputs.cache
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\obj\Debug\MyComixViewer.exe
+G:\WPF\homework\homework_4\homework_4\MyComixViewer\obj\Debug\MyComixViewer.pdb
